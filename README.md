@@ -126,33 +126,16 @@ function getBitmap(){
 
 ```
 
-更多其他操作看api.js文件大概就知道了。
+更多其他操作看在线文档:[api.js](https://magichands.gitbook.io/api-docs-1/android/jie-shao)
 
 
-
-
-## 如何参与开发？
-
-### 应用分2个模块
-
-- app模块，用户操作与UI模块
-- core模块，此模块为MagicHands的核心模块，也就是Sdk。
-
-如需要参与开发请直接pr就可以了，相关教程请Google或者看 [如何在 GitHub 提交第一个 pull request](https://chinese.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github/)
-
-### PR须知
-
-1. 中英文说明都可以，但是一定要详细说明问题
-2. 请遵从原项目的代码风格、设计模式，请勿个性化。
-3. PR不分大小，有问题随时欢迎提交。
 
 ## 计划
 
- - opencv实现图色识别(预计一月左右)
- - root权限实现自动化(预计半年左右)
- - 将要实现自动化的app加载到我们app中实现同一个进程的自动化(预计半年左右)
- - 利用esp32蓝牙hid协议实现自动化(预计半年左右)
- - 利用android的adb提权原理实现免插数据线实现adb自动化(预计半年左右)
+ - opencv实现图色识别
+ - 将要实现自动化的app加载到我们app中实现同一个进程的自动化
+ - 利用蓝牙hid协议实现自动化(预计半年左右)
+ - 利用android的adb提权原理实现免插数据线实现adb自动化
 
 ## 感谢
 
