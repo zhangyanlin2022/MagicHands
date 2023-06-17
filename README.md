@@ -13,8 +13,8 @@
 
 MagicHands，是一款自动化测试引擎，可以在Android7.0以上免root运行自动化脚本，使用js编写，可以编写插件来扩展功能。
 
+![](https://img.shields.io/badge/language-java-brightgreen.svg)
 
-[点击这里跳转](https://img.shields.io/badge/language-java-brightgreen.svg)
 
 ## 作者的碎碎念
 
@@ -35,7 +35,7 @@ MagicHands，是一款自动化测试引擎，可以在Android7.0以上免root�
 
 ## 如何使用
 
-视频教程:https://www.bilibili.com/video/BV1Ao4y1E7NK/?share_source=copy_web&vd_source=2f8cb1fac706b3fcfd90ed86023a3c7c
+[点击这里跳转](https://img.shields.io/badge/language-java-brightgreen.svg)
 
 ### Step 1.初始化：
 
