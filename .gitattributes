@@ -1,1 +1,1 @@
-*. linguist-language=java
+*.gradle linguist-language=java
