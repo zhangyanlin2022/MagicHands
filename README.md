@@ -1,4 +1,4 @@
-<img src="👻/ico.png" alt="Image" width="600" height="300">
+<img src="👻/ico.png" alt="Image" width="400" height="300">
 
 
 ### 声明：本库只允许非商业使用和学习
