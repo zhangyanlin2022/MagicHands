@@ -1,2 +1,2 @@
-*.kt linguist-language=java
+*.md linguist-language=java
 *.js linguist-language=java
