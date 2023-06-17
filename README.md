@@ -2,6 +2,7 @@
 <img src="👻/ico.png" alt="Image" width="400" height="300" > 
 
 # 开源万岁,免费永存！
+<iframe src="//player.bilibili.com/player.html?aid=399941103&bvid=BV1Ao4y1E7NK&cid=1167152385&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ### 声明：本库允许学习食用,允许食用者利用此库制作收费脚本,但不允许在此库基础上套壳变成收费框架!
 
