@@ -19,7 +19,7 @@ MagicHands，是一款自动化测试引擎，可以在Android7.0以上免root�
 
 ## 找我
 
-QQ:3560000009
+QQ:3560000009 Wx:php787 Tg:chenpingan_fjc
 
 ## 支持
 
