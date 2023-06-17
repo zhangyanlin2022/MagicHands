@@ -2,7 +2,6 @@
 <img src="👻/ico.png" alt="Image" width="400" height="300" > 
 
 # 开源万岁,免费永存！
-<iframe src="//player.bilibili.com/player.html?aid=399941103&bvid=BV1Ao4y1E7NK&cid=1167152385&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ### 声明：本库允许学习食用,允许食用者利用此库制作收费脚本,但不允许在此库基础上套壳变成收费框架!
 
@@ -34,6 +33,8 @@ MagicHands，是一款自动化测试引擎，可以在Android7.0以上免root�
 目前已兼容 7.0 ～ 12.0并跟进后续新系统
 
 ## 如何使用
+
+视频教程:![](https://www.bilibili.com/video/BV1Ao4y1E7NK/?share_source=copy_web&vd_source=2f8cb1fac706b3fcfd90ed86023a3c7c)
 
 ### Step 1.初始化：
 
