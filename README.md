@@ -22,9 +22,11 @@ MagicHands，是一款自动化测试引擎，可以在Android7.0以上免root�
 
 ## 找我
 
+- Q群:710985269
 - QQ:3560000009
 - Wx:php787 
 - Tg:chenpingan_fjc
+
 
 ## 支持
 
@@ -38,7 +40,7 @@ MagicHands，是一款自动化测试引擎，可以在Android7.0以上免root�
 
 ### Step 2.编写Js代码并运行：
 
-在assets文件下新建Js文件,再在Js文件新建libs文件夹存放封装好的接口，然后在Js文件下新建main.js为入口,在入口调用接口即可
+在assets文件下新建js文件夹,在js文件夹下新建main.js为入口,在入口调用接口即可
 
 
 
@@ -46,7 +48,7 @@ MagicHands，是一款自动化测试引擎，可以在Android7.0以上免root�
 
 ```JavaScript
 /**
-获取给定节点的文本内容。
+获取给定节点的文本内容
 @权限 无障碍
 @函数名 getText
 @参数 node - 节点对象
@@ -121,7 +123,7 @@ function setUpVirtualDisplay(){
 @权限 常规权限
 @函数名 getBitmap
 @返回值 成功:bit对象 失败:null
-@功能 释放截图权限
+@功能 获取捕获的bit对象
 @介绍 本方法为免费方法由官方开发维护
 @版本 1 正常
 */
@@ -131,7 +133,7 @@ function getBitmap(){
 
 ```
 
-更多其他操作看在线文档:[api.js](https://magichands.gitbook.io/api-docs-1/android/jie-shao)
+更多其他操作看在线文档:[api.js](https://magichands.gitbook.io/api-docs-1/android/jie-shao)【在线文档暂不太完善,请先参考本地接口文档】
 
 
 
@@ -139,8 +141,9 @@ function getBitmap(){
 
  - opencv实现图色识别
  - 将要实现自动化的app加载到我们app中实现同一个进程的自动化
- - 利用蓝牙hid协议实现自动化(预计半年左右)
+ - 利用蓝牙hid协议实现自动化
  - 利用android的adb提权原理实现免插数据线实现adb自动化
+ - 脚手架工具:创建项目,打包项目,打包插件,调试代码,调试局部代码,远程调试,节点查看...
 
 ## 感谢
 
