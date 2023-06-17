@@ -35,7 +35,7 @@ MagicHands，是一款自动化测试引擎，可以在Android7.0以上免root�
 
 ## 如何使用
 
-[视频教程](https://www.bilibili.com/video/BV1Ao4y1E7NK/?share_source=copy_web&vd_source=2f8cb1fac706b3fcfd90ed86023a3c7c)
+[点我看视频教程](https://www.bilibili.com/video/BV1Ao4y1E7NK/?share_source=copy_web&vd_source=2f8cb1fac706b3fcfd90ed86023a3c7c)
 
 ### Step 1.初始化：
 
