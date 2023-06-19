@@ -3,6 +3,8 @@
 
 # 开源万岁,免费永存！
 
+# [集成开发环境](https://github.com/5tiaowu/MagicHands-IDE)
+
 ### 声明：本库允许学习食用,允许食用者利用此库制作收费脚本,但不允许在此库基础上套壳变成收费框架!
 
 # Android自动化引擎 · MagicHands
